@@ -46,6 +46,7 @@ In this part, Using YOLO V3 to detect weed and crop. The learning model we also 
 ### 1.3 SLAM and other
 
 - [x] (Livox SLAM)[https://github.com/SUSTech-Gardener/car_relocalization]
+- [x] (Livox Autoware)https://github.com/SUSTech-Gardener/livox_autoware_driver
 
 ## 2. Build Gardener
 
