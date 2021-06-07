@@ -22,6 +22,8 @@ The whole project has these parts.
 
 ## [3D-solidworks](https://github.com/SUSTech-Gardener/3d-solidworks)
 
+![image-20210607224319348](https://raw.githubusercontent.com/zhuhu00/img/master/20210607224322.png)
+
 1. Tracked car: In order to be able to operate on multiple terrain
 2. Sprinkler control
 3. Car bracket
