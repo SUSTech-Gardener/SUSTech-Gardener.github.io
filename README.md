@@ -1,8 +1,9 @@
-# :atom: [Gardener for agricultural](https://github.com/SUSTech-Gardener)
+# :atom_symbol:[Gardener for agricultural](https://github.com/SUSTech-Gardener)
 
 This is the page for  of [SUSTech-Gardener](https://github.com/SUSTech-Gardener)😊, which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
 
-Video: [Youtube](https://youtu.be/GjDMmWxaL50), bilibili
+### Video: [Youtube](https://youtu.be/GjDMmWxaL50), bilibili
+
 [![Watch the video](https://raw.githubusercontent.com/zhuhu00/img/master/20210607141359.png)](https://youtu.be/GjDMmWxaL50)
 
 Some picture about Gardener.
