@@ -40,8 +40,8 @@ Ubuntu 64-bit 16.04 or 18.04. ROS Kinetic or Melodic. Follow [ROS Installation](
 
 In this part, Using YOLO V3 to detect weed and crop. The learning model we also transfer to ROS package, it is very easy to use.
 
-- ROS package:  https://github.com/SUSTech-Gardener/WeedDetection_ros
-- Without ROS: https://github.com/SUSTech-Gardener/WeedDetection
+- ROS package:  [https://github.com/SUSTech-Gardener/WeedDetection_ros](https://github.com/SUSTech-Gardener/WeedDetection_ros)
+- Without ROS: [https://github.com/SUSTech-Gardener/WeedDetection](https://github.com/SUSTech-Gardener/WeedDetection)
 
 ### 1.3 SLAM and other
 
