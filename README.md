@@ -1,15 +1,13 @@
-# Gardener
+# :atom: [Gardener for agricultural](https://github.com/SUSTech-Gardener)
 
-## Gardener for agricultural
+This is the page for  of [SUSTech-Gardener](https://github.com/SUSTech-Gardener)😊, which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
 
-The main repository of [SUSTech-Gardener](https://github.com/SUSTech-Gardener), which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
-
-Video:
+Video: [Youtube](https://youtu.be/GjDMmWxaL50), bilibili
 [![Watch the video](https://raw.githubusercontent.com/zhuhu00/img/master/20210607141359.png)](https://youtu.be/GjDMmWxaL50)
 
 Some picture about Gardener.
 
-<img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134730.png" alt="image-20210606134722046" style="zoom: 7%;" /> <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134854.png" alt="image-20210606134850746" style="zoom:7%;" />
+<img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134730.png" alt="image-20210606134722046" style="zoom: 10%;" /> <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134854.png" alt="image-20210606134850746" style="zoom:10%;" />
 
 <img src="https://raw.githubusercontent.com/zhuhu00/img/master/20210606134534.png" alt="image-20210606134529791" style="zoom:100%;" />
 
@@ -17,9 +15,9 @@ The whole project has these parts.
 
 ## Sensors
 
-1. Camera: Realsense D435i: https://www.intelrealsense.com/depth-camera-d435i/
-2. Lidar: Livox avia: https://www.livoxtech.com/avia
-3. Soilsensor: https://github.com/SUSTech-Gardener/Gardener/tree/main/soilsensor
+1. Camera: Realsense D435i: [https://www.intelrealsense.com/depth-camera-d435i](https://www.intelrealsense.com/depth-camera-d435i/)
+2. Lidar: Livox avia: [https://www.livoxtech.com/avia](https://www.livoxtech.com/avia)
+3. Soilsensor: [https://github.com/SUSTech-Gardener/Gardener/tree/main/soilsensor](https://github.com/SUSTech-Gardener/Gardener/tree/main/soilsensor)
 
 ## [3D-solidworks](https://github.com/SUSTech-Gardener/3d-solidworks)
 
@@ -71,19 +69,20 @@ Follow other repository in this project.
 
 # TODO 
 
-- [x] 硬件部分：小车的速度，转向控制，
-- [x] 杂草识别的模型，第八周结束需要搞完
-- [x] SLAM和navigation
-- [x] 机械硬件结构搭建和喷头系统的构建
-- [x] 土壤检测器的插入设计
-- [x] 最终的系统框架构建！！
+- [x] 购买物资（全程）
+- [x] 硬件部分：小车的速度，转向控制，(第3到第12周)
+- [x] 杂草识别的模型，第八周结束需要搞完（第4到第十周）
+- [x] SLAM和navigation（第九到第十六周）
+- [x] 机械硬件结构搭建和喷头系统的构建（第四到第十六周）
+- [x] 土壤检测器的插入设计及测试（第十三周）
+- [x] 最终的系统框架构建！！（✌）
 
 ## Developers:
 
 - [Shixing Jiang](https://github.com/RiggsChiang): Mechanical design, electrical selection and layout, video clip
 - [Qiaowen Wang](https://github.com/linghushaoxia-wqw): Mechanical design and tracking trolley control
 - [Haibiao Chen](https://github.com/Billchan9711): electrical design and implementation, embedded system construction
-- [Hu Zhu](https://github.com/zhuhu00): YOLO V3 for weed detection, coordination between components
+- [Hu Zhu](https://github.com/zhuhu00): YOLO V3 for weed detection, coordination between components, Github Main maintenance.
 - [Wen Yang](https://github.com/yangwen-1102): Mapping, positioning and system communication
 
 # Acknowledgment
