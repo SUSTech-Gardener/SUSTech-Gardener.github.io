@@ -89,5 +89,5 @@ Follow other repository in this project.
 
 # Acknowledgment
 
-This work was supported by SUSTech Course (SDM5002) , [Professor Xiaoping Hong](https://github.com/xiaopinghong)
+This work was supported by SUSTech Course (SDM 5002) , [Professor Xiaoping Hong](https://github.com/xiaopinghong)
 
