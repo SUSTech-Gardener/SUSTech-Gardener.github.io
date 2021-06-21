@@ -2,6 +2,11 @@
 
 This is the page for  of [SUSTech-Gardener](https://github.com/SUSTech-Gardener)😊, which is An autonomous mobile agricultural robot can collect agriculture-related information, as well as weeding and other work to serve the future agriculture. 
 
+## Good News!
+Our team has won the only reward, the prize is [DJI OSMO Mobile 4](https://www.dji.com/cn/om-4)
+
+![image-20210621155907137](https://raw.githubusercontent.com/zhuhu00/img/master/20210621155911.png)
+
 ### Video: [Youtube](https://youtu.be/GjDMmWxaL50), [bilibili](https://www.bilibili.com/video/BV1fB4y1u7dK)
 
 <iframe src="//player.bilibili.com/player.html?aid=588441477&bvid=BV1fB4y1u7dK&cid=350209416&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
