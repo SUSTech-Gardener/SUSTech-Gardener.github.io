@@ -99,4 +99,7 @@ Follow other repository in this project.
 # Acknowledgment
 
 This work was supported by SUSTech Course (SDM 5002) , [Professor Xiaoping Hong](https://github.com/xiaopinghong)
-
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="center">
+</p>
